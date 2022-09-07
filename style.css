@@ -60,7 +60,7 @@ h1{
 	border-radius: 50%;
 	border-width: 0;
 	font-weight: bold;
-	font-size: 15px;
+	font-size: 20px;
 }
 
 .number{
@@ -79,3 +79,22 @@ h1{
 	font-size: 18px;
 }
 
+button:nth-child(4){
+	background-color: #2ba;
+}
+
+button:nth-child(8){
+	background-color: #fa0;
+}
+
+button:nth-child(12){
+	background-color: #f88;
+}
+
+button:nth-child(16){
+	background-color: #79e;
+}
+
+button:nth-child(20){
+	background-color: #97a;
+}

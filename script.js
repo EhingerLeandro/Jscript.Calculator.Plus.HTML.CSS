@@ -35,3 +35,10 @@ for(let i=0; i<operator.length; i++){
 		alert("The operator clicked: "+this.id);
 	})
 }
+
+let number = document.getElementsByClassName("number");
+for(let i=0; i<number.length; i++){
+	number[i].addEventListener('click', function(){
+		alert("The operator clicked: "+this.id);
+	})
+}
